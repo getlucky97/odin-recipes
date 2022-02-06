@@ -1,0 +1,41 @@
+h2 {
+    color: rgb(0, 0, 0);
+}
+
+body {
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+h1 {
+    background-color: black;
+    color: darkorange;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    font-size: 50px;
+}
+
+img {
+    border-image: fill;
+    border-style: groove;
+    border-color: black;
+    border-width: 2px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.images {
+    text-align: center;
+}
+
+.align-center {
+    text-align: center;
+}
+
+ul, ol {
+    display: inline-block;
+    text-align: left;
+}

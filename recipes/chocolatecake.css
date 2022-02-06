@@ -1,0 +1,27 @@
+body {
+    background-color: goldenrod;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: x-large;
+}
+
+h1 {
+    background-color: rgb(70, 54, 54);
+    color: goldenrod;
+}
+
+img {
+    border: solid 2px;
+}
+
+.list {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+
+ol {
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
